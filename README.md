@@ -19,6 +19,10 @@ Fico muito feliz com o resultado do projeto, que consiste na listagem persistida
 - React-router-dom
 - localStorage API
 
+# IMAGENS
+<img src="https://i.imgur.com/TRZtn9h.png" width="800">
+<img src="https://i.imgur.com/Z0mzVbr.png" width="800">
+
 ## INSTRUÇÕES PARA UTILIZAÇÃO
 
 Faça a instalação das dependencias com
