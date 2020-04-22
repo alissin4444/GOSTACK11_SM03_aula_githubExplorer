@@ -4,6 +4,7 @@
 Nesse módulo nos foi apresentado, através do Diego Schell Fernandes, como utilizar css-in-js com o styled-components, utilização da ferramenta para manipulação de cores chamada polished, fazer requisições utilizando o axios à API do github, utilização de alguns hooks do React, tipagem no react através do typescript, tratativa de erros, roteamento, localStorage e muito mais!
 
 
+
 Fico muito feliz com o resultado do projeto, que consiste na listagem persistida no localStorage de repositórios e visualização detalhada de cada repositório.
 
 ## CONCEITOS APRENDIDOS
